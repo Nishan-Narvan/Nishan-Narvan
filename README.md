@@ -4,7 +4,7 @@
   <h1 style="color: #00FFFF; font-size: 3rem; font-weight: bold;">Hi</h1>
 
 ### About Me
-From crafting Coding Projects to delving into the philosophical questions of existence, my passion lies at the intersection of technology and philosophy.  I love coding, AI, fitness, new tech and  philosophy. Always learning, always evolving!
+From crafting Coding Projects [AI integerated] to delving into the philosophical questions of existence,A passionate homosapien whose passion lies at the intersection of technology and philosophy.  I love coding, AI, fitness, new tech and  philosophy. Always learning, always evolving!
 
 </div>
 
